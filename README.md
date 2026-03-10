@@ -7,3 +7,7 @@ Mod for The Long Dark that adds more spawn locations in misery mode and adds a c
 
 - ModSettings
 - ModData
+
+
+## Special Thanks
+- To BigFish, the original creator of both mods.
