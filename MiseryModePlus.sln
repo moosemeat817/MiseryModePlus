@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11520.95 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiseryModePlus", "MiseryModePlus.csproj", "{6309C083-8FE2-56AC-EAE3-260B332EC52D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6309C083-8FE2-56AC-EAE3-260B332EC52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6309C083-8FE2-56AC-EAE3-260B332EC52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6309C083-8FE2-56AC-EAE3-260B332EC52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6309C083-8FE2-56AC-EAE3-260B332EC52D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F53AFEF6-5665-4993-9326-0BA79E9367F7}
+	EndGlobalSection
+EndGlobal
